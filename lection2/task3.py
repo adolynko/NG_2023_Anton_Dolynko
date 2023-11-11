@@ -1,4 +1,3 @@
-import math
 userInput = int(input())
 
 for number in range(1, userInput + 1):
