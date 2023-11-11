@@ -7,4 +7,4 @@ for item in userInput:
     if item in vowels:
         userVowels += item
 
-print(userVowels)
+print(set(userVowels))
